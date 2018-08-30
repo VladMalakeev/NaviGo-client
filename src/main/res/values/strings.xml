@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">navigo</string>
+    <string name="network1">Данные о городах не загружены</string>
+    <string name="network2">Требуется подключение к сети</string>
+    <string name="fragment_map_text">Карта</string>
+    <string name="fragment_places_text">Менеджер городов</string>
+    <string-array name="drawer_items">
+        <item>Карта</item>
+        <item>Менеджер городов</item>
+    </string-array>
+</resources>
